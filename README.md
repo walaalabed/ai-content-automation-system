@@ -49,9 +49,9 @@ The workflow automatically researches a topic, generates AI-powered content for 
 
 ---
 
-# Workflow
+## Workflow
 
-![workflow](workflow.jpg)
+![Workflow](workflow.png)
 
 ---
 
